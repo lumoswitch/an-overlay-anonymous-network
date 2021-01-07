@@ -8,9 +8,9 @@ This network can:
 * Offer a GUI environment for the user
 * Support two modes: 
   * the direct mode (no proxy needed) 
-    ![](../SharedScreenshot.jpg)
+    ![](./SharedScreenshot.jpg)
   * the relay mode (relays included)
-    ![](../SharedScreenshot2.jpg)
+    ![](./SharedScreenshot2.jpg)
 
 
 ## Configuration
